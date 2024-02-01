@@ -1,3 +1,4 @@
+'use client'
 import JobBox from "@/component/JobList/JobBox";
 import { Badge, Box, Button, Flex, IconButton, Input, Skeleton, Text, VStack } from "@chakra-ui/react";
 import Link from "next/link";

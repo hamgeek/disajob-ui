@@ -3,7 +3,6 @@ import LayoutNavMenu from "@/component/layout/nav-menu";
 import { Box, Button, Flex, IconButton, List, ListIcon, ListItem, Text } from "@chakra-ui/react";
 import { FlatColorIconsGoogle } from "../icon/IconGoogle";
 
-
 export default function AppLogin() {
     return (
         <>

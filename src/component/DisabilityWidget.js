@@ -6,10 +6,10 @@ import { useCallback, useEffect, useState } from "react";
 
 export default function DisabilityWidget() {
 
-    const [grayScale, setGrayScale] = useState(localStorage.getItem('disability-grayscale')? true: false);
+    const [grayScale, setGrayScale] = useState(typeof window !== 'undefined' && localStorage.getItem('disability-grayscale')? true: false);
     const disabilityMode = useDisability();
     const enableGrayScale = (state) => {
-        if(state)
+        if(typeof window !== 'undefined' && state)
         {
             localStorage.setItem('disability-grayscale', 'on');
             disabilityMode.setGrayScale('on');
