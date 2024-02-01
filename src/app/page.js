@@ -1,6 +1,6 @@
 import JobBox from "@/component/JobList/JobBox";
 import { Box, Button, Flex, Grid, HStack, Icon, Text, VStack } from "@chakra-ui/react";
-import LogoWeb from '../assets/Page 1/icon.png';
+import LogoWeb from '../assets/page/icon.png';
 import Image from "next/image";
 import Link from "next/link";
 import featurePic from '../assets/picture_feature.avif';
