@@ -3,7 +3,7 @@ import { Box, Button, Flex, Grid, HStack, Icon, Text, VStack } from "@chakra-ui/
 import LogoWeb from '../assets/page/icon.png';
 import Image from "next/image";
 import Link from "next/link";
-import featurePic from '../assets/picture_feature.avif';
+import featurePic from '../assets/feature.png';
 
 import computerIcon from '../assets/profession/computer-front-color.png';
 import knowledgeIcon from '../assets/profession/notebook-front-color.png';
