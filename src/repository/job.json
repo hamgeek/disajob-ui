@@ -1,0 +1,244 @@
+[
+    {
+        "id": "5a6b7c8d-9e0f-1g2h-3i4j-5k6l7m8n9o0p",
+        "company_name": "PT. Inklusif Media Kreasi",
+        "url_image": "",
+        "job_title": "Video Editor",
+        "job_pendidikan": ["D4"],
+        "job_difabel": ["Tuna Rungu"],
+        "job_location": ["Jakarta"],
+        "is_open": true,
+        "job_desc": [
+            "Mengedit dan menyusun materi video untuk keperluan promosi.",
+            "Menyusun dan mengatur klip video sesuai dengan skenario.",
+            "Bekerjasama dengan tim kreatif untuk menciptakan konten video yang menarik.",
+            "Menggunakan perangkat lunak pengeditan video seperti Adobe Premiere atau Final Cut Pro.",
+            "Menambahkan elemen audio dan efek visual untuk meningkatkan kualitas video."
+        ],
+        "job_rules": [
+            "Laki-laki atau Perempuan",
+            "Usia Maksimal 30 tahun",
+            "Lulusan D4 Film dan Televisi atau bidang terkait",
+            "Pengalaman sebagai Video Editor diutamakan"
+        ],
+        "company_description": "Kami adalah perusahaan media kreatif yang menghargai inklusivitas, memberikan kesempatan bagi individu dengan kemampuan berbeda untuk berkontribusi dalam menciptakan konten visual yang inspiratif."
+        },
+        {
+        "id": "1b2c3d4e-5f6g7h8i9j0k1l2m3n4o5p",
+        "company_name": "PT. Teknologi Difabel Bersatu",
+        "url_image": "",
+        "job_title": "AI Researcher",
+        "job_pendidikan": ["S2"],
+        "job_difabel": ["Tuna Daksa"],
+        "job_location": ["Surabaya"],
+        "is_open": true,
+        "job_desc": [
+            "Mengembangkan dan mengimplementasikan model kecerdasan buatan (AI).",
+            "Melakukan riset untuk meningkatkan kinerja algoritma AI.",
+            "Menganalisis data untuk menemukan pola dan tren yang relevan.",
+            "Bekerjasama dengan tim pengembang untuk mengintegrasikan solusi AI.",
+            "Memantau dan mengevaluasi kinerja model AI secara berkala."
+        ],
+        "job_rules": [
+            "Laki-laki atau Perempuan",
+            "Usia Maksimal 35 tahun",
+            "Lulusan S2 Ilmu Komputer atau bidang terkait",
+            "Pengalaman sebagai AI Researcher diutamakan"
+        ],
+        "company_description": "Kami adalah perusahaan teknologi yang berfokus pada pengembangan kecerdasan buatan, mengundang individu dengan kemampuan berbeda untuk berkontribusi dalam menciptakan solusi AI yang inklusif."
+        },
+        {
+        "id": "2b3c4d5e-6f7g8h9i0j1k2l3m4n5o6p",
+        "company_name": "PT. Konsultan Inklusif",
+        "url_image": "",
+        "job_title": "Inclusive Design Consultant",
+        "job_pendidikan": ["S1"],
+        "job_difabel": ["Tuna Netra"],
+        "job_location": ["Bandung"],
+        "is_open": true,
+        "job_desc": [
+            "Memberikan konsultasi desain yang inklusif untuk produk dan layanan.",
+            "Menganalisis kebutuhan pengguna dengan difabilitas visual.",
+            "Mengembangkan solusi desain yang memperhitungkan aksesibilitas.",
+            "Memberikan pelatihan kepada tim desain tentang prinsip-prinsip inklusif.",
+            "Bekerjasama dengan klien untuk mengimplementasikan desain yang inklusif."
+        ],
+        "job_rules": [
+            "Laki-laki atau Perempuan",
+            "Usia Maksimal 28 tahun",
+            "Lulusan S1 Desain Produk atau bidang terkait",
+            "Pengalaman sebagai Inclusive Design Consultant diutamakan"
+        ],
+        "company_description": "Kami adalah perusahaan konsultan desain yang mengutamakan inklusivitas, memberikan kesempatan bagi individu dengan kemampuan berbeda untuk membawa wawasan unik mereka dalam menciptakan desain yang lebih baik."
+        },
+        {
+        "id": "3c4d5e6f7g-8h9i0j1k2l3m4n5o6p",
+        "company_name": "PT. E-commerce Inklusif",
+        "url_image": "",
+        "job_title": "Customer Service Representative",
+        "job_pendidikan": ["D3"],
+        "job_difabel": ["Tuna Daksa"],
+        "job_location": ["Semarang"],
+        "is_open": true,
+        "job_desc": [
+            "Menanggapi pertanyaan dan keluhan pelanggan melalui berbagai saluran komunikasi.",
+            "Memberikan bantuan dalam proses pemesanan dan pembayaran.",
+            "Memberikan informasi produk dan layanan dengan jelas dan akurat.",
+            "Mengkoordinasikan dengan tim terkait untuk memecahkan masalah pelanggan.",
+            "Mengidentifikasi peluang untuk meningkatkan pengalaman pelanggan."
+        ],
+        "job_rules": [
+            "Laki-laki atau Perempuan",
+            "Usia Maksimal 32 tahun",
+            "Lulusan D3 Komunikasi atau bidang terkait",
+            "Pengalaman sebagai Customer Service Representative diutamakan"
+        ],
+        "company_description": "Kami adalah perusahaan e-commerce yang berkomitmen untuk memberikan pengalaman belanja online yang inklusif, memberikan kesempatan bagi individu dengan kemampuan berbeda untuk berpartisipasi dalam memberikan layanan pelanggan yang berkualitas."
+        },
+        {
+        "id": "4d5e6f7g-8h9i0j1k2l3m4n5o6p",
+        "company_name": "PT. Desain Kreatif Inklusif",
+        "url_image": "",
+        "job_title": "Interior Designer",
+        "job_pendidikan": ["D4"],
+        "job_difabel": ["Tuna Rungu"],
+        "job_location": ["Yogyakarta"],
+        "is_open": true,
+        "job_desc": [
+            "Merancang dan merencanakan desain interior untuk berbagai proyek.",
+            "Berinteraksi dengan klien untuk memahami kebutuhan dan preferensi mereka.",
+            "Memilih material dan peralatan sesuai dengan prinsip aksesibilitas.",
+            "Mengkoordinasikan dengan kontraktor dan pemasok untuk implementasi desain.",
+            "Memastikan bahwa desain memenuhi standar keamanan dan aksesibilitas."
+        ],
+        "job_rules": [
+            "Laki-laki atau Perempuan",
+            "Usia Maksimal 30 tahun",
+            "Lulusan D4 Desain Interior atau bidang terkait",
+            "Pengalaman sebagai Interior Designer diutamakan"
+        ],
+        "company_description": "Kami adalah perusahaan desain kreatif yang mengadopsi pendekatan inklusif dalam menciptakan ruang yang indah dan berfungsional, memberikan kesempatan bagi individu dengan kemampuan berbeda untuk menyumbangkan ide-ide unik mereka."
+    },
+    {
+      "id": "fc452689-8caf-4731-9c9e-e75ed4cec31b",
+      "company_name": "PT. Bank Kami Sejahtera",
+      "url_image": "",
+      "job_title": "Admin Bank",
+      "job_pendidikan": ["D3"],
+      "job_difabel": ["Tuna Daksa"],
+      "job_location": ["Jakarta"],
+      "is_open": true,
+      "job_desc": [
+        "Melakukan administrasi data nasabah, seperti data diri, rekening, dan transaksi.",
+        "Melakukan administrasi produk dan layanan perbankan, seperti produk simpanan, pinjaman, dan asuransi.",
+        "Melakukan administrasi sistem informasi perbankan, seperti data transaksi, laporan keuangan, dan laporan operasional.",
+        "Memberikan layanan kepada nasabah, seperti menjawab pertanyaan dan memberikan solusi.",
+        "Melakukan verifikasi dan validasi data.",
+        "Melakukan dokumentasi dan pengarsipan data.",
+        "Melakukan pengembangan diri."
+      ],
+      "job_rules": [
+        "Laki-laki atau Perempuan",
+        "Usia Maksimal 30 tahun",
+        "Lulusan D3",
+        "Diutamakan telah memiliki pengalaman berkerja"
+      ],
+      "company_description": "Kami perusahaan yang bergerak dalam bidang sumber daya manusia yang bekerja sama dengan berbagai perusahaan dibidang perbankan, jasa telekomunikasi dan distributor elektronik."
+    },
+    {
+      "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k1l2m3n4o5p",
+      "company_name": "PT. Teknologi Inklusif",
+      "url_image": "",
+      "job_title": "Software Developer",
+      "job_pendidikan": ["S1"],
+      "job_difabel": ["Tuna Daksa"],
+      "job_location": ["Surabaya"],
+      "is_open": true,
+      "job_desc": [
+        "Mengembangkan perangkat lunak dengan berfokus pada aksesibilitas.",
+        "Mengelola dan memelihara sistem perangkat lunak agar dapat diakses oleh semua individu.",
+        "Berpartisipasi dalam analisis kebutuhan pengguna, termasuk difabel visual.",
+        "Melakukan pemrograman dan pengujian perangkat lunak dengan memperhatikan aksesibilitas.",
+        "Bekerja sama dengan tim untuk memastikan proyek berjalan sesuai jadwal dan standar aksesibilitas."
+      ],
+      "job_rules": [
+        "Laki-laki atau Perempuan",
+        "Usia Maksimal 35 tahun",
+        "Lulusan S1 Teknik Informatika atau Ilmu Komputer",
+        "Menguasai beberapa bahasa pemrograman seperti Java, Python, atau C++"
+      ],
+      "company_description": "Kami adalah perusahaan teknologi yang berkomitmen untuk menciptakan solusi inklusif yang dapat diakses oleh semua individu, termasuk mereka yang memiliki keterbatasan fisik atau difabel."
+    },
+    {
+      "id": "2a3b4c5d-6e7f-8g9h-0i1j-2k3l4m5n6o7p",
+      "company_name": "PT. Kreatif Difabel",
+      "url_image": "",
+      "job_title": "Graphic Designer",
+      "job_pendidikan": ["D4"],
+      "job_difabel": ["Tuna Rungu"],
+      "job_location": ["Bandung"],
+      "is_open": true,
+      "job_desc": [
+        "Merancang dan mengembangkan desain grafis untuk keperluan promosi.",
+        "Menghasilkan materi visual kreatif sesuai dengan konsep iklan atau kampanye.",
+        "Bekerja sama dengan tim pemasaran untuk menyampaikan pesan visual yang efektif.",
+        "Mengikuti tren desain terkini dan mengaplikasikannya dalam pekerjaan."
+      ],
+      "job_rules": [
+        "Laki-laki atau Perempuan",
+        "Usia Maksimal 28 tahun",
+        "Lulusan D4 Desain Grafis atau seni terkait",
+        "Menguasai perangkat lunak desain seperti Adobe Photoshop, Illustrator, dan CorelDRAW"
+      ],
+      "company_description": "Kami adalah agensi kreatif yang menempatkan inklusivitas dan keberagaman sebagai inti dari karya desain kami, memberikan kesempatan bagi difabel untuk berkembang dalam industri kreatif."
+    },
+    {
+      "id": "3a4b5c6d-7e8f-9g0h-1i2j-3k4l5m6n7o8p",
+      "company_name": "PT. Teknologi Difabel Sukses",
+      "url_image": "",
+      "job_title": "Accessibility Tester",
+      "job_pendidikan": ["S2"],
+      "job_difabel": ["Tuna Daksa"],
+      "job_location": ["Semarang"],
+      "is_open": true,
+      "job_desc": [
+        "Mengujikan aplikasi dan situs web untuk memastikan aksesibilitas bagi difabel.",
+        "Melakukan evaluasi aksesibilitas berdasarkan standar yang berlaku.",
+        "Memberikan rekomendasi perbaikan untuk meningkatkan aksesibilitas.",
+        "Bekerjasama dengan tim pengembang untuk memastikan perbaikan diimplementasikan.",
+        "Memberikan pelatihan kepada tim pengembang mengenai praktik terbaik aksesibilitas."
+      ],
+      "job_rules": [
+        "Laki-laki atau Perempuan",
+        "Usia Maksimal 40 tahun",
+        "Lulusan S2 Teknologi Informasi atau bidang terkait",
+        "Pengalaman sebagai Accessibility Tester diutamakan"
+      ],
+      "company_description": "Kami adalah perusahaan teknologi yang berfokus pada keberlanjutan dan inklusivitas, mengundang individu dengan berbagai latar belakang untuk berkontribusi dalam menciptakan solusi teknologi yang dapat diakses oleh semua."
+    },
+    {
+      "id": "4a5b6c7d-8e9f-0g1h-2i3j-4k5l6m7n8o9p",
+      "company_name": "PT. Logistik Difabel Terpadu",
+      "url_image": "",
+      "job_title": "Logistics Coordinator",
+      "job_pendidikan": ["D3"],
+      "job_difabel": ["Tuna Daksa"],
+      "job_location": ["Surakarta"],
+      "is_open": true,
+      "job_desc": [
+        "Mengelola pengiriman dan penerimaan barang dengan memperhatikan kebutuhan difabel.",
+        "Memastikan ketersediaan stok barang sesuai kebutuhan difabel.",
+        "Berkoordinasi dengan pihak terkait untuk mengoptimalkan proses logistik yang ramah difabel.",
+        "Memantau alur pengiriman dan memberikan laporan kepada manajemen.",
+        "Menangani masalah atau kendala dalam proses logistik yang dapat mempengaruhi difabel."
+      ],
+      "job_rules": [
+        "Laki-laki atau Perempuan",
+        "Usia Maksimal 32 tahun",
+        "Lulusan D3 Logistik atau Supply Chain Management",
+        "Berpengalaman di bidang logistik diutamakan"
+      ],
+      "company_description": "Kami adalah perusahaan logistik yang berkomitmen untuk menciptakan lingkungan kerja inklusif dan memberdayakan difabel dalam setiap aspek bisnis kami."
+    }
+  ]
+  
